@@ -2,7 +2,7 @@
 This GitHub repository contains a simple C++ program for managing a parking lot. The program is designed to register parking spaces, users, book parking 
 spaces for users, calculate parking fees, generate receipts, and create a parking report. Below is an overview of the key components of the code:
 
-Usage
+# Features 
 .Users can be registered with their names and vehicle sizes.
 
 
